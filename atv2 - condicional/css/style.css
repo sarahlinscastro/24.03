@@ -1,0 +1,15 @@
+img{
+    position: fixed;
+    align-items: center;
+    top: 200px;
+    left: 10px;
+}
+
+.form{
+    position: fixed;
+    height: 470px;
+    width: 470;
+    left: 520px;
+    top: 165px;
+    margin-top: 20px;
+}
